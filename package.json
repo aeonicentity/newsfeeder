@@ -1,0 +1,11 @@
+{
+  "name": "newsfeeder",
+  "version": "1.0.0",
+  "description": "A website designed to customise multiple news feeds for news junkies and people interested in consuming topics more completely.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Brilliant",
+  "license": "ISC"
+}
